@@ -1,0 +1,47 @@
+
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:bisque;
+    height: 10vh;
+    margin: 0;
+    p{
+        font-size: 22px;
+        font-family: "Inter", Arial, sans-serif;
+    }
+}
+
+.sidenav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    background-color: rgb(222, 228, 171);
+    min-height: 100vh;
+    width: 38vh;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    .b1{
+        height: 8vh;
+        width: 35vh;
+        margin: 2px;
+        background-color: azure;
+        border: 0cap;
+    }
+    .b2{
+        height: 8vh;
+        width: 35vh;
+        margin: 2px;
+        background-color: azure;
+        border: 0cap;
+    }
+    .b3{
+        height: 8vh;
+        width: 35vh;
+        margin: 2px;
+        background-color: azure;
+        border: 0cap;
+    }
+}
